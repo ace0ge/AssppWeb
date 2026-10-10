@@ -1,1 +1,136 @@
-aW1wb3J0IHsgYmVmb3JlRWFjaCwgZGVzY3JpYmUsIGV4cGVjdCwgaXQsIHZpIH0gZnJvbSAidml0ZXN0IjsKaW1wb3J0IHsgYnVpbGRQbGlzdCB9IGZyb20gIi4uLy4uL3NyYy9hcHBsZS9wbGlzdCI7CmltcG9ydCB7IGF1dGhlbnRpY2F0ZSB9IGZyb20gIi4uLy4uL3NyYy9hcHBsZS9hdXRoZW50aWNhdGUiOwppbXBvcnQgeyBhcHBsZVJlcXVlc3QgfSBmcm9tICIuLi8uLi9zcmMvYXBwbGUvcmVxdWVzdCI7CmltcG9ydCB7IGZldGNoQmFnIH0gZnJvbSAiLi4vLi4vc3JjL2FwcGxlL2JhZyI7Cgp2aS5tb2NrKCIuLi8uLi9zcmMvYXBwbGUvcmVxdWVzdCIsICgpID0+ICh7CiAgYXBwbGVSZXF1ZXN0OiB2aS5mbigpLAp9KSk7Cgp2aS5tb2NrKCIuLi8uLi9zcmMvYXBwbGUvYmFnIiwgKCkgPT4gKHsKICBmZXRjaEJhZzogdmkuZm4oKSwKICBkZWZhdWx0QXV0aFVSTDoKICAgICJodHRwczovL2J1eS5pdHVuZXMuYXBwbGUuY29tL1dlYk9iamVjdHMvTVpGaW5hbmNlLndvYS93YS9hdXRoZW50aWNhdGUiLAp9KSk7CgpkZXNjcmliZSgiYXBwbGUvYXV0aGVudGljYXRlIiwgKCkgPT4gewogIGJlZm9yZUVhY2goKCkgPT4gewogICAgdmkuY2xlYXJBbGxNb2NrcygpOwogIH0pOwoKICBpdCgic2V0cyBndWlkIHF1ZXJ5IGV4YWN0bHkgb25jZSBmcm9tIGJhZyBlbmRwb2ludCIsIGFzeW5jICgpID0+IHsKICAgIHZpLm1vY2tlZChmZXRjaEJhZykubW9ja1Jlc29sdmVkVmFsdWUoewogICAgICBhdXRoVVJMOgogICAgICAgICJodHRwczovL2J1eS5pdHVuZXMuYXBwbGUuY29tL1dlYk9iamVjdHMvTVpGaW5hbmNlLndvYS93YS9hdXRoZW50aWNhdGU/Zm9vPTEmZ3VpZD1vbGQtdmFsdWUiLAogICAgfSk7CiAgICB2aS5tb2NrZWQoYXBwbGVSZXF1ZXN0KS5tb2NrUmVzb2x2ZWRWYWx1ZSh7CiAgICAgIHN0YXR1czogMjAwLAogICAgICBzdGF0dXNUZXh0OiAiT0siLAogICAgICBoZWFkZXJzOiB7fSwKICAgICAgcmF3SGVhZGVyczogW10sCiAgICAgIGJvZHk6IGJ1aWxkUGxpc3QoewogICAgICAgIGFjY291bnRJbmZvOiB7CiAgICAgICAgICBhcHBsZUlkOiAidGVzdEBleGFtcGxlLmNvbSIsCiAgICAgICAgICBhZGRyZXNzOiB7CiAgICAgICAgICAgIGZpcnN0TmFtZTogIlRlc3QiLAogICAgICAgICAgICBsYXN0TmFtZTogIlVzZXIiLAogICAgICAgICAgfSwKICAgICAgICB9LAogICAgICAgIHBhc3N3b3JkVG9rZW46ICJ0b2tlbiIsCiAgICAgICAgZHNQZXJzb25JZDogIjEyMyIsCiAgICAgIH0pLAogICAgfSk7CgogICAgYXdhaXQgYXV0aGVudGljYXRlKAogICAgICAidGVzdEBleGFtcGxlLmNvbSIsCiAgICAgICJwYXNzd29yZCIsCiAgICAgIHVuZGVmaW5lZCwKICAgICAgdW5kZWZpbmVkLAogICAgICAiYWFiYmNjZGRlZWZmIiwKICAgICk7CgogICAgY29uc3QgcmVxdWVzdENhbGwgPSB2aS5tb2NrZWQoYXBwbGVSZXF1ZXN0KS5tb2NrLmNhbGxzWzBdWzBdOwogICAgY29uc3QgZW5kcG9pbnQgPSBuZXcgVVJMKGBodHRwczovLyR7cmVxdWVzdENhbGwuaG9zdH0ke3JlcXVlc3RDYWxsLnBhdGh9YCk7CgogICAgZXhwZWN0KGVuZHBvaW50LnNlYXJjaFBhcmFtcy5nZXQoImd1aWQiKSkudG9CZSgiYWFiYmNjZGRlZWZmIik7CiAgICBleHBlY3QoZW5kcG9pbnQuc2VhcmNoUGFyYW1zLmdldEFsbCgiZ3VpZCIpKS50b0hhdmVMZW5ndGgoMSk7CiAgICBleHBlY3QoZW5kcG9pbnQuc2VhcmNoUGFyYW1zLmdldCgiZm9vIikpLnRvQmUoIjEiKTsKICB9KTsKCiAgaXQoInRyZWF0cyBIVFRQIDIwNCBhZnRlciAyRkEgY29kZSBhcyB2ZXJpZmljYXRpb24gc3VjY2VzcyBhbmQgZmV0Y2hlcyBhY2NvdW50IGluZm8iLCBhc3luYyAoKSA9PiB7CiAgICB2aS5tb2NrZWQoZmV0Y2hCYWcpLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgYXV0aFVSTDoKICAgICAgICAiaHR0cHM6Ly9idXkuaXR1bmVzLmFwcGxlLmNvbS9XZWJPYmplY3RzL01aRmluYW5jZS53b2Evd2EvYXV0aGVudGljYXRlIiwKICAgIH0pOwoKICAgIC8vIEZpcnN0IGNhbGwgKHdpdGggMkZBIGNvZGUpIHJldHVybnMgMjA0IGVtcHR5IC0gMkZBIHZlcmlmaWVkCiAgICAvLyBTZWNvbmQgY2FsbCAoZm9sbG93LXVwKSByZXR1cm5zIGFjY291bnQgaW5mbwogICAgdmkubW9ja2VkKGFwcGxlUmVxdWVzdCkKICAgICAgLm1vY2tSZXNvbHZlZFZhbHVlT25jZSh7CiAgICAgICAgc3RhdHVzOiAyMDQsCiAgICAgICAgc3RhdHVzVGV4dDogIk5vIENvbnRlbnQiLAogICAgICAgIGhlYWRlcnM6IHt9LAogICAgICAgIHJhd0hlYWRlcnM6IFsic2V0LWNvb2tpZTogc2Vzc2lvbj1hYmMxMjMiXSwKICAgICAgICBib2R5OiAiIiwKICAgICAgfSkKICAgICAgLm1vY2tSZXNvbHZlZFZhbHVlT25jZSh7CiAgICAgICAgc3RhdHVzOiAyMDAsCiAgICAgICAgc3RhdHVzVGV4dDogIk9LIiwKICAgICAgICBoZWFkZXJzOiB7fSwKICAgICAgICByYXdIZWFkZXJzOiBbXSwKICAgICAgICBib2R5OiBidWlsZFBsaXN0KHsKICAgICAgICAgIGFjY291bnRJbmZvOiB7CiAgICAgICAgICAgIGFwcGxlSWQ6ICJ0ZXN0QGV4YW1wbGUuY29tIiwKICAgICAgICAgICAgYWRkcmVzczogewogICAgICAgICAgICAgIGZpcnN0TmFtZTogIlRlc3QiLAogICAgICAgICAgICAgIGxhc3ROYW1lOiAiVXNlciIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9LAogICAgICAgICAgcGFzc3dvcmRUb2tlbjogInRva2VuIiwKICAgICAgICAgIGRzUGVyc29uSWQ6ICIxMjMiLAogICAgICAgIH0pLAogICAgICB9KTsKCiAgICBjb25zdCBhY2NvdW50ID0gYXdhaXQgYXV0aGVudGljYXRlKAogICAgICAidGVzdEBleGFtcGxlLmNvbSIsCiAgICAgICJwYXNzd29yZCIsCiAgICAgICIxMjM0NTYiLAogICAgICB1bmRlZmluZWQsCiAgICAgICJhYWJiY2NkZGVlZmYiLAogICAgKTsKCiAgICAvLyBTaG91bGQgaGF2ZSBtYWRlIDIgcmVxdWVzdHM6IDJGQSB2ZXJpZnkgKDIwNCkgKyBhY2NvdW50IGluZm8gZmV0Y2gKICAgIGV4cGVjdCh2aS5tb2NrZWQoYXBwbGVSZXF1ZXN0KSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDIpOwoKICAgIC8vIEZpcnN0IHJlcXVlc3Qgc2hvdWxkIGhhdmUgYXR0ZW1wdD0iMiIgd2l0aCBjb2RlIGFwcGVuZGVkIHRvIHBhc3N3b3JkCiAgICBjb25zdCBmaXJzdENhbGwgPSB2aS5tb2NrZWQoYXBwbGVSZXF1ZXN0KS5tb2NrLmNhbGxzWzBdWzBdOwogICAgZXhwZWN0KGZpcnN0Q2FsbC5ib2R5KS50b0NvbnRhaW4oInBhc3N3b3JkMTIzNDU2Iik7CgogICAgLy8gU2Vjb25kIHJlcXVlc3Qgc2hvdWxkIGhhdmUgYXR0ZW1wdD0iNCIgd2l0aG91dCBjb2RlIChmb2xsb3ctdXApCiAgICBjb25zdCBzZWNvbmRDYWxsID0gdmkubW9ja2VkKGFwcGxlUmVxdWVzdCkubW9jay5jYWxsc1sxXVswXTsKICAgIGV4cGVjdChzZWNvbmRDYWxsLmJvZHkpLm5vdC50b0NvbnRhaW4oIjEyMzQ1NiIpOwoKICAgIC8vIFNob3VsZCByZXR1cm4gdGhlIGFjY291bnQgc3VjY2Vzc2Z1bGx5CiAgICBleHBlY3QoYWNjb3VudC5hcHBsZUlkKS50b0JlKCJ0ZXN0QGV4YW1wbGUuY29tIik7CiAgICBleHBlY3QoYWNjb3VudC5wYXNzd29yZFRva2VuKS50b0JlKCJ0b2tlbiIpOwogIH0pOwoKICBpdCgic3RpbGwgdGhyb3dzIGVtcHR5Qm9keSBlcnJvciBmb3Igbm9uLTIwNCBlbXB0eSByZXNwb25zZXMiLCBhc3luYyAoKSA9PiB7CiAgICB2aS5tb2NrZWQoZmV0Y2hCYWcpLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgYXV0aFVSTDoKICAgICAgICAiaHR0cHM6Ly9idXkuaXR1bmVzLmFwcGxlLmNvbS9XZWJPYmplY3RzL01aRmluYW5jZS53b2Evd2EvYXV0aGVudGljYXRlIiwKICAgIH0pOwogICAgdmkubW9ja2VkKGFwcGxlUmVxdWVzdCkubW9ja1Jlc29sdmVkVmFsdWUoewogICAgICBzdGF0dXM6IDQwMywKICAgICAgc3RhdHVzVGV4dDogIkZvcmJpZGRlbiIsCiAgICAgIGhlYWRlcnM6IHt9LAogICAgICByYXdIZWFkZXJzOiBbXSwKICAgICAgYm9keTogIiIsCiAgICB9KTsKCiAgICBhd2FpdCBleHBlY3QoCiAgICAgIGF1dGhlbnRpY2F0ZSgidGVzdEBleGFtcGxlLmNvbSIsICJwYXNzd29yZCIsIHVuZGVmaW5lZCwgdW5kZWZpbmVkLCAiYWFiYmNjZGRlZWZmIiksCiAgICApLnJlamVjdHMudG9UaHJvdygpOwogIH0pOwp9KTsK
+import { beforeEach, describe, expect, it, vi } from "vitest";
+import { buildPlist } from "../../src/apple/plist";
+import { authenticate } from "../../src/apple/authenticate";
+import { appleRequest } from "../../src/apple/request";
+import { fetchBag } from "../../src/apple/bag";
+
+vi.mock("../../src/apple/request", () => ({
+  appleRequest: vi.fn(),
+}));
+
+vi.mock("../../src/apple/bag", () => ({
+  fetchBag: vi.fn(),
+  defaultAuthURL:
+    "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/authenticate",
+}));
+
+describe("apple/authenticate", () => {
+  beforeEach(() => {
+    vi.clearAllMocks();
+  });
+
+  it("sets guid query exactly once from bag endpoint", async () => {
+    vi.mocked(fetchBag).mockResolvedValue({
+      authURL:
+        "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/authenticate?foo=1&guid=old-value",
+    });
+    vi.mocked(appleRequest).mockResolvedValue({
+      status: 200,
+      statusText: "OK",
+      headers: {},
+      rawHeaders: [],
+      body: buildPlist({
+        accountInfo: {
+          appleId: "test@example.com",
+          address: {
+            firstName: "Test",
+            lastName: "User",
+          },
+        },
+        passwordToken: "token",
+        dsPersonId: "123",
+      }),
+    });
+
+    await authenticate(
+      "test@example.com",
+      "password",
+      undefined,
+      undefined,
+      "aabbccddeeff",
+    );
+
+    const requestCall = vi.mocked(appleRequest).mock.calls[0][0];
+    const endpoint = new URL(`https://${requestCall.host}${requestCall.path}`);
+
+    expect(endpoint.searchParams.get("guid")).toBe("aabbccddeeff");
+    expect(endpoint.searchParams.getAll("guid")).toHaveLength(1);
+    expect(endpoint.searchParams.get("foo")).toBe("1");
+  });
+
+  it("treats HTTP 204 after 2FA code as verification success and fetches account info", async () => {
+    vi.mocked(fetchBag).mockResolvedValue({
+      authURL:
+        "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/authenticate",
+    });
+
+    // First call (with 2FA code) returns 204 empty - 2FA verified
+    // Second call (follow-up) returns account info
+    vi.mocked(appleRequest)
+      .mockResolvedValueOnce({
+        status: 204,
+        statusText: "No Content",
+        headers: {},
+        rawHeaders: ["set-cookie: session=abc123"],
+        body: "",
+      })
+      .mockResolvedValueOnce({
+        status: 200,
+        statusText: "OK",
+        headers: {},
+        rawHeaders: [],
+        body: buildPlist({
+          accountInfo: {
+            appleId: "test@example.com",
+            address: {
+              firstName: "Test",
+              lastName: "User",
+            },
+          },
+          passwordToken: "token",
+          dsPersonId: "123",
+        }),
+      });
+
+    const account = await authenticate(
+      "test@example.com",
+      "password",
+      "123456",
+      undefined,
+      "aabbccddeeff",
+    );
+
+    // Should have made 2 requests: 2FA verify (204) + account info fetch
+    expect(vi.mocked(appleRequest)).toHaveBeenCalledTimes(2);
+
+    // First request should have attempt="2" with code appended to password
+    const firstCall = vi.mocked(appleRequest).mock.calls[0][0];
+    expect(firstCall.body).toContain("password123456");
+
+    // Second request should have attempt="4" without code (follow-up)
+    const secondCall = vi.mocked(appleRequest).mock.calls[1][0];
+    expect(secondCall.body).not.toContain("123456");
+
+    // Should return the account successfully
+    expect(account.appleId).toBe("test@example.com");
+    expect(account.passwordToken).toBe("token");
+  });
+
+  it("still throws emptyBody error for non-204 empty responses", async () => {
+    vi.mocked(fetchBag).mockResolvedValue({
+      authURL:
+        "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/authenticate",
+    });
+    vi.mocked(appleRequest).mockResolvedValue({
+      status: 403,
+      statusText: "Forbidden",
+      headers: {},
+      rawHeaders: [],
+      body: "",
+    });
+
+    await expect(
+      authenticate("test@example.com", "password", undefined, undefined, "aabbccddeeff"),
+    ).rejects.toThrow();
+  });
+});
