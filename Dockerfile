@@ -5,6 +5,7 @@ WORKDIR /app/frontend
 COPY frontend/package*.json ./
 RUN npm ci
 COPY frontend/ ./
+RUN node --version && npm --version
 RUN npm run build
 
 # Stage 2: Build backend
