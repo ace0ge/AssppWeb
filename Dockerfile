@@ -26,7 +26,7 @@ FROM --platform=$BUILDPLATFORM node:20-alpine AS sap-assets
 WORKDIR /app/backend
 COPY --from=backend-build /app/backend ./
 ARG SAP_ASSETS_OUT=/out
-RUN DATA_DIR=/tmp/sap-extract-work node --import tsx scripts/extract-sap-assets.mts ${SAP_ASSETS_OUT}
+RUN npm install --no-save @esbuild/linux-x64 && DATA_DIR=/tmp/sap-extract-work node --import tsx scripts/extract-sap-assets.mts ${SAP_ASSETS_OUT}
 
 # Stage 3: Runtime
 FROM node:20-alpine
