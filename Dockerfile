@@ -13,7 +13,7 @@ FROM node:20-alpine AS backend-build
 RUN apk add --no-cache python3 make g++
 WORKDIR /app/backend
 COPY backend/package*.json ./
-RUN npm install
+RUN npm ci
 COPY backend/ ./
 RUN npm run build
 
